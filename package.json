@@ -1,0 +1,32 @@
+{
+  "name": "Btc-credit-Auidt",
+  "version": "1.0.0",
+  "description": "Btc-credit smart contract audit report",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisharma1357/blockworkaudit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/abhisharma1357/blockworkaudit/issues"
+  },
+  "homepage": "https://gitlab.com/himanshu9/blockworkaudit#README",
+  "devDependencies": {
+    "solidity-coverage": "^0.5.11"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.12.0",
+    "web3": "^1.0.0-beta.55",
+    "solc": "^0.4.24",
+    "truffle":"^4.1.16"
+
+  }
+}
